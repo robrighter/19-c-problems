@@ -1,0 +1,7 @@
+This is my SSH config
+@/Users/rob/.ssh/config
+
+This is another file that has a nested file
+@./nested.txt
+
+And Now we are all done
